@@ -10,4 +10,6 @@ If I am not working I enjoy photography, walking, working out, traveling, or coo
 Find out the technical articles and knowledge sharing material created by me:  
 https://rathi-prashant.github.io/awesome_devops_examples/
 
+![Prashant's Most used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rathi-prashant&hide=java,html,css,tex&langs_count=3&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)
+
 Cheers!
