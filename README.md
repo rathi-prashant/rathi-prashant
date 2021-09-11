@@ -7,6 +7,7 @@ I'm a Cloud, DevOps, and MLOps engineer who is passionate about technology. I ha
 If I am not working I enjoy photography, walking, working out, traveling, or cooking. I love coaching people and sharing my knowledge whenever possible and feel world is a beautiful place if you be kind and generous. 
 
 ## Technical articles and code-base 
-Find out the technical articles and knowledge sharing material created by me: https://rathi-prashant.github.io/awesome_devops_examples/
+Find out the technical articles and knowledge sharing material created by me:  
+https://rathi-prashant.github.io/awesome_devops_examples/
 
 Cheers!
