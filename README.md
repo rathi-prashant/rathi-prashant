@@ -1,7 +1,9 @@
 <div align="center">
 
 <!-- HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=230&section=header&text=Prashant%20Rathi&fontSize=54&fontColor=e6edf3&fontAlignY=32&desc=Principal%20Architect%20at%20McKinsey%20%7C%20AI%20%26%20GenAI%20Architect%20%7C%20Speaker%20%26%20Mentor&descSize=16&descColor=8b949e&descAlignY=52&animation=fadeIn" width="100%"/>
+# Prashant Rathi
+
+### Principal Architect at McKinsey | AI & GenAI Architect | Speaker & Mentor
 
 <br/>
 
@@ -349,6 +351,8 @@ EDUCATION
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=120&section=footer" width="100%"/>
+---
+
+<sub>Made with purpose in London, UK</sub>
 
 </div>
