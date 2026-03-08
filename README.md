@@ -35,7 +35,7 @@ I help leaders take GenAI from demo to production — secure, stable, and at sca
 
 <br/>
 
-## `> whoami`
+## `> whoami` <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="28" />
 
 **Principal Architect at McKinsey & Company and QuantumBlack** with 15+ years of hands-on experience across AI, GenAI, DevOps, MLOps, LLMOps, and Cloud Infrastructure.
 
@@ -49,7 +49,7 @@ I've architected solutions across **AWS, Azure, GCP, and Kubernetes** — includ
 
 <br/>
 
-## `> cat about.yml`
+## `> cat about.yml` <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Scroll.png" alt="Scroll" width="28" />
 
 ```yaml
 prashant_rathi:
@@ -75,7 +75,7 @@ prashant_rathi:
 
 <br/>
 
-## `> cat career_timeline.json`
+## `> cat career_timeline.json` <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="28" />
 
 ```json
 {
@@ -91,7 +91,7 @@ prashant_rathi:
 
 <br/>
 
-## `> cat expertise.yml`
+## `> cat expertise.yml` <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="28" />
 
 ```yaml
 domains:
@@ -143,7 +143,7 @@ domains:
 
 <br/>
 
-## `> ls -la tech_stack/`
+## `> ls -la tech_stack/` <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="Tech" width="28" />
 
 <div align="center">
 
@@ -200,7 +200,7 @@ domains:
 
 <br/>
 
-## `> grep -r "impact" ./career/ --stats`
+## `> grep -r "impact" ./career/ --stats` <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" alt="Impact" width="28" />
 
 ```
 McKinsey & Company                                          ~9 years
@@ -218,7 +218,7 @@ McKinsey & Company                                          ~9 years
 
 <br/>
 
-## `> cat thought_leadership.md`
+## `> cat thought_leadership.md` <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" alt="Ideas" width="28" />
 
 <div align="center">
 
@@ -239,7 +239,7 @@ I regularly publish on LinkedIn about the intersection of AI, infrastructure, an
 
 <br/>
 
-## `> cat what_i_can_help_with.md`
+## `> cat what_i_can_help_with.md` <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="28" />
 
 <table>
 <tr>
@@ -309,18 +309,6 @@ EDUCATION
 | **Mentoring** | If you're early in your career or pivoting into AI/cloud, I'm here to help |
 | **Open Source** | Building tools the community actually needs |
 | **Collaboration** | Building something ambitious? Let's talk |
-
-</div>
-
-<br/>
-
-## `> tail -f github_stats.log`
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=rathi-prashant&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&ring_color=1f6feb" height="170"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com?user=rathi-prashant&theme=github-dark-blue&hide_border=true&background=0D1117&ring=1F6FEB&fire=58A6FF&currStreakLabel=58A6FF" height="170"/>
 
 </div>
 
