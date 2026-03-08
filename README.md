@@ -268,7 +268,7 @@ I regularly publish on LinkedIn about the intersection of AI, infrastructure, an
 
 <br/>
 
-## `> cat certifications_and_volunteering.md`
+## `> cat certifications_and_volunteering.md` <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" alt="Education" width="28" />
 
 ```
 CERTIFICATIONS
@@ -285,7 +285,7 @@ EDUCATION
 
 <br/>
 
-## `> cat what_others_say.md`
+## `> cat what_others_say.md` <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Star-Struck.png" alt="Testimonials" width="28" />
 
 > *"Prashant consistently demonstrated a strong client-centric mindset, leading several high-impact projects. His work has been adopted across multiple client studies, resulting in substantial savings in both effort and cost. He became the go-to expert for DevOps, Cloud, and Data Platform queries."*
 >
@@ -297,7 +297,7 @@ EDUCATION
 
 <br/>
 
-## `> echo $OPEN_TO`
+## `> echo $OPEN_TO` <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Europe-Africa.png" alt="Open To" width="28" />
 
 <div align="center">
 
